@@ -41,16 +41,11 @@ Support education advocacy groups and children’s advocacy groups
 	Links to local charities that are helping with this
 
 ## Data:
-	I anticipate using the data from the below links to create charts that show the homeless situation in Utah, 
-	particularly for children under 18 years old (achievement, enrollment, total numbers, etc). The data will be used to 
-	assist in informing Utahns about the state of homelessness and education in their state, and what they can do to help 
-	(more details in the outline above).
+I anticipate using the data from the below links to create charts that show the homeless situation in Utah, particularly for children under 18 years old (achievement, enrollment, total numbers, etc). The data will be used to assist in informing Utahns about the state of homelessness and education in their state, and what they can do to help (more details in the outline above).
 https://eddataexpress.ed.gov/state-tables-main.cfm 
 http://www.utahtaxpayers.org/wp-content/uploads/2017/09/2017-School-Spending-Report.pdf 
 https://www.hudexchange.info/programs/coc/coc-homeless-populations-and-subpopulations-reports/?filter_Year=&filter_Scope=State&filter_State=UT&filter_CoC=&program=CoC&group=PopSub 
 
 ## Method and Medium:
-	I will complete this project as a journal style story map on Esri. For the presentation, I will focus my attention to 
-	the most pressing points, student homelessness in Utah and school funding lapses, with a push towards what Utahns can 
-	do to help. I will use the presentation as practice for making this pitch to the citizens of Utah when I move there. 
+I will complete this project as a journal style story map on Esri. For the presentation, I will focus my attention to the most pressing points, student homelessness in Utah and school funding lapses, with a push towards what Utahns can do to help. I will use the presentation as practice for making this pitch to the citizens of Utah when I move there. 
 
