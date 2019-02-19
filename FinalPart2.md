@@ -14,14 +14,13 @@ Starting from this story arc, I created a set of sketches that would mimic the d
 <img src="IMG_20190218_223958 (1).jpg">
 For this step, I asked a few people I know from Utah to weigh in on my sketches and let me know what they think. I let them read the story board, and then asked them the following questions:
 <OL>
-  <LI>What is the point of this story?
-  <LI>What is your takeaway?
-  <LI>What did you like? What did you not like? Why?
-  <LI>What is missing?
-  <LI>If you were to read this as a page on a website, how long would you spend engaged with it?
-  <LI>After reading this, what will you do?
-    </LI>
-    </OL>
+  <LI>What is the point of this story?</LI>
+  <LI>What is your takeaway?</LI>
+  <LI>What did you like? What did you not like? Why?</LI>
+  <LI>What is missing?</LI>
+  <LI>If you were to read this as a page on a website, how long would you spend engaged with it?</LI>
+  <LI>After reading this, what will you do?</LI>
+</OL>
 
 The feedback I got was great. I learned that my subjects would spend no more than 7 minutes reading the storymap, which lets me know that I need to be concise and impactful, and that my audience will likely not want something that gets too far into the weeds of the information. My research also alerted me to explaining some more of the lingo, but that the story arc was good and led into the story well. When asked about what subjects would do after reading the narrative, most responded that they would not do anything, and that a clear, quick, and easy to do call to action might urge my subject to act. Aside from that, most subjects said they would share the story on social media.
 
