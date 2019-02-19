@@ -14,4 +14,4 @@ I hope to learn about how to make data visually compelling and meaningful for a 
 
 ### Week 4: <a href = "FinalProjectOutline"> Final Project Outline and Data </a>
 
-### Week 5: <a href = "FinalPart2"> Final Project Mock Ups </a>
+### Week 5: <a href = "https://rule37.github.io/Portfolio/FinalPart2"> Final Project Mock Ups </a>
