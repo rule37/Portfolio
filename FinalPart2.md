@@ -26,4 +26,4 @@ The feedback I got was great. I learned that my subjects would spend no more tha
 <img src="HomelessStudent.jpg">
 So far I've made a few of the graphs that will eventually make it into the final project. 
 
-<iframe src="https://public.tableau.com/views/PITTestTableau/UtahPointinTimeCounts2005to2018?:embed=y&:display_count=yes&publish=yes" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
+<iframe src="https://public.tableau.com/views/PITTestTableau/UtahPointinTimeCounts2005to2018?:embed=y&:display_count=yes&publish=yes" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">Text Here</iframe>
