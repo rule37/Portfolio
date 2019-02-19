@@ -23,5 +23,7 @@ For this step, I asked a few people I know from Utah to weigh in on my sketches 
 The feedback I got was great. I learned that my subjects would spend no more than 7 minutes reading the storymap, which lets me know that I need to be concise and impactful, and that my audience will likely not want something that gets too far into the weeds of the information. My research also alerted me to explaining some more of the lingo, but that the story arc was good and led into the story well. When asked about what subjects would do after reading the narrative, most responded that they would not do anything, and that a clear, quick, and easy to do call to action might urge my subject to act. Aside from that, most subjects said they would share the story on social media.
 
 ## Step 3: Wireframing and mock ups
+<img src="HomelessStudent.jpg">
+So far I've made a few of the graphs that will eventually make it into the final project. 
 
-
+<iframe src="https://public.tableau.com/views/PITTestTableau/UtahPointinTimeCounts2005to2018?:embed=y&:display_count=yes&publish=yes" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"></iframe>
