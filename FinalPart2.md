@@ -5,6 +5,5 @@ This week, we did a lot of the behind the scenes work on creating a narrative th
 ## Step 1: Story arc and sketches
 <img src="StoryArc.jpg" height=543 width=720> 
 
-Starting from this story arc, I created a set of sketches that would mimic the different screens in my story map. My sketches are below.
+Starting from this story arc, I created a set of sketches that would mimic the different screens in my story map. My sketches are <a href="Scan Feb 18, 2019.pdf">here</a>.
 
-<img src="Scan Feb 18, 2019.pdf">
