@@ -20,7 +20,7 @@ For this step, I asked a few people I know from Utah to weigh in on my sketches 
   <LI>What is missing?
   <LI>If you were to read this as a page on a website, how long would you spend engaged with it?
   <LI>After reading this, what will you do?
-    </ol>
+    </LI>
 
 The feedback I got was great. I learned that my subjects would spend no more than 7 minutes reading the storymap, which lets me know that I need to be concise and impactful, and that my audience will likely not want something that gets too far into the weeds of the information. My research also alerted me to explaining some more of the lingo, but that the story arc was good and led into the story well. When asked about what subjects would do after reading the narrative, most responded that they would not do anything, and that a clear, quick, and easy to do call to action might urge my subject to act. Aside from that, most subjects said they would share the story on social media.
 
