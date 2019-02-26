@@ -2,7 +2,7 @@
 
 This week, we produced our final product for the course, a data story made public for the world to see. The final product is <a href="https://arcg.is/1nyrS8">here</a>. This page covers the process up to this point and some information about the creation of my final deliverable.
 
-##Final Data Story
+## Final Data Story
 My final data story is about student homelessness in Utah. It includes information about homelessness in Utah, student homelessness, ways that other school districts are helping their students, and ways that the general public can support these efforts. My one sentence summary is "Homeless students in Utah are being left behind and schools need more resources to help."
 
 ### Part 1: The idea
