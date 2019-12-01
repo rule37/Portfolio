@@ -9,6 +9,6 @@ I am a MSPPM graduate from Hawaii who has found a passion for data analysis and 
 
 ### Week 3: <a href = "VizAssignment2"> Critiquing and recreating a visualization </a>
 
-### Week 4: <a href = "FinalProjectOutline"> Final Project Outline and Data </a>
+### Week 4: <a href = "FinalProjectOutline.md"> Final Project Outline and Data </a>
 
 ### Week 5: <a href = "https://rule37.github.io/Portfolio/FinalPart2"> Final Project Mock Ups </a>
